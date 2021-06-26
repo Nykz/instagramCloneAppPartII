@@ -1,7 +1,7 @@
 # instagramCloneAppPartII
 ### Instagram Clone App - Part II - Profile Screen | Ionic 5+ UI
 
-Watch the Full Episode on YouTube at https://youtu.be/zQIBTFaDbNI
+Watch the Full Episode on YouTube at https://youtu.be/9e09UJ5cRCg
 
 <img src="https://github.com/Nykz/instagramCloneAppPartII/blob/main/thumbnail%20part2%20(Time%200_00_01%3B04)1.png" width="800" height="400" />
 
